@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{A38A811C-5588-421B-BCB6-17DB4F0382ED}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HometasksCSharpIntro/Program.cs">
+    <Files>
+      <File FileName="HometasksCsharpIntro/Program.cs" Line="50" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HometasksCsharpIntro" expanded="True" selected="True">
+            <Node name="HometasksCsharpIntro" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HometasksCsharpIntro PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

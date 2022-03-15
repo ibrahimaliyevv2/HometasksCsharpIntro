@@ -1,0 +1,13 @@
+/Users/ibrahimaliyevv/Projects/HometasksCSharpIntro/HometasksCSharpIntro/bin/Debug/netcoreapp3.1/HometasksCSharpIntro.deps.json
+/Users/ibrahimaliyevv/Projects/HometasksCSharpIntro/HometasksCSharpIntro/bin/Debug/netcoreapp3.1/HometasksCSharpIntro.runtimeconfig.json
+/Users/ibrahimaliyevv/Projects/HometasksCSharpIntro/HometasksCSharpIntro/bin/Debug/netcoreapp3.1/HometasksCSharpIntro.runtimeconfig.dev.json
+/Users/ibrahimaliyevv/Projects/HometasksCSharpIntro/HometasksCSharpIntro/bin/Debug/netcoreapp3.1/HometasksCSharpIntro.dll
+/Users/ibrahimaliyevv/Projects/HometasksCSharpIntro/HometasksCSharpIntro/bin/Debug/netcoreapp3.1/HometasksCSharpIntro.pdb
+/Users/ibrahimaliyevv/Projects/HometasksCSharpIntro/HometasksCSharpIntro/obj/Debug/netcoreapp3.1/HometasksCSharpIntro.csproj.AssemblyReference.cache
+/Users/ibrahimaliyevv/Projects/HometasksCSharpIntro/HometasksCSharpIntro/obj/Debug/netcoreapp3.1/HometasksCSharpIntro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibrahimaliyevv/Projects/HometasksCSharpIntro/HometasksCSharpIntro/obj/Debug/netcoreapp3.1/HometasksCSharpIntro.AssemblyInfoInputs.cache
+/Users/ibrahimaliyevv/Projects/HometasksCSharpIntro/HometasksCSharpIntro/obj/Debug/netcoreapp3.1/HometasksCSharpIntro.AssemblyInfo.cs
+/Users/ibrahimaliyevv/Projects/HometasksCSharpIntro/HometasksCSharpIntro/obj/Debug/netcoreapp3.1/HometasksCSharpIntro.csproj.CoreCompileInputs.cache
+/Users/ibrahimaliyevv/Projects/HometasksCSharpIntro/HometasksCSharpIntro/obj/Debug/netcoreapp3.1/HometasksCSharpIntro.dll
+/Users/ibrahimaliyevv/Projects/HometasksCSharpIntro/HometasksCSharpIntro/obj/Debug/netcoreapp3.1/HometasksCSharpIntro.pdb
+/Users/ibrahimaliyevv/Projects/HometasksCSharpIntro/HometasksCSharpIntro/obj/Debug/netcoreapp3.1/HometasksCSharpIntro.genruntimeconfig.cache
